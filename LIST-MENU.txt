@@ -1,0 +1,73 @@
+DATA MAKANAN DAN MINUMAN
+🍗 Hot Food
+Fami Chiki (ayam goreng fillet)
+Chicken Karaage
+Chicken Nugget
+Sosis Bakar
+Sosis Jumbo
+Corndog Mozzarella
+Corndog Sosis
+Kentang Goreng
+Chicken Wings
+Chicken Popcorn
+Fish Ball
+Shrimp Ball
+Takoyaki
+Gyoza
+Dimsum Ayam
+Dimsum Udang
+
+🍢 Oden Station
+Fish Cake
+Crab Ball
+Lobster Ball
+Cheese Dumpling
+Chicken Dumpling
+Chikuwa
+Daikon
+Telur Oden
+Tofu Oden
+
+🍱 Rice & Bento
+Chicken Karaage Rice
+Chicken Teriyaki Rice
+Chicken Katsu Rice
+Beef Yakiniku Rice
+Chicken Sambal Matah Rice
+Chicken Salted Egg Rice
+Japanese Curry Rice
+Bento Ayam
+Bento Ikan
+
+🥪 Sandwich & Bread
+Egg Sandwich
+Tuna Sandwich
+Chicken Sandwich
+Smoked Beef Sandwich
+Croissant
+Donat
+Roti Coklat
+Roti Keju
+Garlic Bread
+
+Coffee
+Americano
+Cappuccino
+Cafe Latte
+Vanilla Latte
+Hazelnut Latte
+Caramel Latte
+Kopi Susu Naufal
+Kopi Gula Aren
+Mocha
+
+🧋 Non Coffee
+Matcha Latte
+Premium Chocolate
+Milk Tea
+Thai Tea
+Yakult Series
+Lemon Tea
+Honey Yuzu Tea
+Fresh Milk
+Brown Sugar Milk
